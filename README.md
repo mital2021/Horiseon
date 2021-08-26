@@ -1,11 +1,12 @@
-# Code Refactor Starter Code
+
 
 # Horiseon Social Solution Service, Inc.
 
 ## Purpose
-Code Refactor Starter Code
 
+A website that offers business solution for your website.
 
+## Code Refactoring was done for this website.
 
 ## Built with 
     * Sementic HTML
