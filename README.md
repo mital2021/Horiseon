@@ -7,16 +7,17 @@ Code Refactor Starter Code
 
 
 
-## Buit with 
+## Built with 
     * Sementic HTML
     * CSS
 
 ## Website
 
+https://mital2021.github.io/Horiseon/
 
 
 ## Contribution
-Made by   Mital Goghari
+Made by Mital.G
 
 
 ### © 2019 Horiseon Social Solution Services, Inc
