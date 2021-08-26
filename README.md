@@ -6,7 +6,8 @@
 
 A website that offers business solution for your website.
 
-## Code Refactoring was done for this website.
+
+* Code Refactoring was done for this website.
 
 ## Built with 
     * Sementic HTML
